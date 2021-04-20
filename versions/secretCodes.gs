@@ -45,7 +45,7 @@ function onSubmit(e) {
     if (code == secretCodes.codeOne.code) {
       correspondingName = secretCodes.codeOne.name
     } else if (code == secretCodes.codeTwo.code) {
-      correspondingName = secretCode.codeTwo.name
+      correspondingName = secretCodes.codeTwo.name
     } else if (code == secretCodes.codeThree.code) {
       correspondingName = secretCode.codeThree.name
     } 
