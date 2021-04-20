@@ -1,4 +1,4 @@
-ecretCodes = {
+secretCodes = {
    "codeOne":{
       "code":"0001",
       "name":"Name for Code One"
